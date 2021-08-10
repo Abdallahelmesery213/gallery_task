@@ -1,0 +1,27 @@
+@font-face{
+    font-family: 'Releway';
+    font-weight: 300;
+    src: url("/fonts/Raleway-VariableFont_wght.ttf");
+}
+@font-face{
+    font-family: 'RelewayBlack';
+    font-weight: 300;
+    src: url("/fonts/Raleway-Black.ttf");
+}
+.gallery{
+    width: 100%;
+    padding: 10px;
+}
+h1{
+    font-family: 'Releway';
+    color: #3a79c5;
+}
+
+img{
+    width: 243px;
+    height: 164px;
+    cursor: pointer;
+}
+.header{
+    margin-left: 40px;
+}
